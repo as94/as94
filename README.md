@@ -9,13 +9,13 @@ I’m a Senior .NET Backend Developer with over 8 years of experience building s
 
 🔭 Projects
 
-- **[Goods Reseller](https://github.com/as94/goodsreseller)**  
+- **[Goods Reseller](https://github.com/as94/goods-reseller)**  
   An online store offering curated gift sets with real-time order management. Includes Telegram notifications for new orders and an admin panel for managing products, orders, and statistics.
 
 - **[Power Diary App](https://github.com/as94/power-diary-app)**  
   A chat reporting interface with time-based aggregation. Built using clean architecture with Domain, Data, and Web layers, this app supports smooth local deployments with Docker and includes unit tests for key logic components.
 
-- **[File Sorter](https://github.com/as94/file-sorter)**  
+- **[File Sorter](https://github.com/as94/filesort)**  
   A tool for sorting large text files with lines in the format `{number}. {word}`. It efficiently processes files with millions of lines using temporary storage to manage memory and ensures the correct order by word and number.
 
 📫 How to reach me
