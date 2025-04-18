@@ -1,6 +1,6 @@
 ## Anatoly Sorokin
 
-I’m a Senior .NET Backend Developer with over 8 years of experience building scalable, reliable web applications. I enjoy working across the full software development lifecycle, from gathering requirements to delivering production-ready solutions with CI/CD pipelines.
+I’m a Senior .NET Backend Developer with over 9 years of experience building scalable, reliable web applications. I enjoy working across the full software development lifecycle, from gathering requirements to delivering production-ready solutions with CI/CD pipelines.
 
 💬 Ask me about
 - Designing resilient APIs with DDD principles
